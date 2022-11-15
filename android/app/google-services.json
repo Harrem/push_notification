@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715150858902",
+    "project_id": "harrem-push-noti-project",
+    "storage_bucket": "harrem-push-noti-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715150858902:android:1597f3a75aaed1875600b7",
+        "android_client_info": {
+          "package_name": "com.example.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715150858902-adhk3bsvpu8ob8ul8n3sjbhc1adr260t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcxSajnflajWKPhoLXNC3vAvYY8pVwJoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715150858902-adhk3bsvpu8ob8ul8n3sjbhc1adr260t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
